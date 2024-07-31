@@ -51,13 +51,13 @@ const ParticleEffect = () => {
             default: OutMode.out,
           },
           random: true,
-          speed: 0.4,
+          speed: 0.2,
           straight: false,
         },
         opacity: {
           animation: {
             enable: true,
-            speed: 2,
+            speed: 1,
             sync: false,
           },
           value: { min: 0, max: 1 },
