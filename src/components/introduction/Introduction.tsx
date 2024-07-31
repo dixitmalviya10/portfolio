@@ -1,6 +1,5 @@
 import ParticleEffect from "../ParticleEffect";
 import { TypeAnimation } from "react-type-animation";
-import introImage from "../../assets/images/pngwing.com.png";
 
 const Introduction = () => {
   return (
@@ -42,7 +41,7 @@ const Introduction = () => {
           <div className="order-1 md:order-2 -z-10">
             <img
               className="m-auto md:ml-auto md:mr-0 brightness-0 invert"
-              src={introImage}
+              src="/images/introImage.png"
               alt="image"
               width={500}
             />
