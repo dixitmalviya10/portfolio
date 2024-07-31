@@ -82,7 +82,7 @@ const Work = () => {
           </div>
           <img
             className="mx-auto -mt-16 hidden sm:block"
-            src="/src/assets/images/work.png"
+            src="/assets/images/work.png"
           />
         </div>
       </div>

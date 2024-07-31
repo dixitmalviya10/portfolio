@@ -13,14 +13,10 @@ const Contact = () => {
             className="block"
             href="https://www.linkedin.com/in/dixit-lohar10/"
             target="_blank">
-            <img
-              src="/src/assets/images/linkedin.png"
-              alt="linkedin"
-              width={120}
-            />
+            <img src="/assets/images/linkedin.png" alt="linkedin" width={120} />
           </a>
           <a className="block" href="mailto:dixitmalviya10@gmail.com">
-            <img src="/src/assets/images/new.png" alt="gmail" width={120} />
+            <img src="/assets/images/new.png" alt="gmail" width={120} />
           </a>
         </div>
       </div>

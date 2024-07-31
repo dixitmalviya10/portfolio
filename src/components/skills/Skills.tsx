@@ -29,7 +29,7 @@ const Skills = () => {
               <img
                 key={path}
                 className={`p-1 aspect-square block object-contain grayscale hover:grayscale-0 hover:filter-none transition-all duration-300 last:mr-7`}
-                src={`/src/assets/logos/${path}`}
+                src={`/assets/logos/${path}`}
                 alt={title}
                 title={title}
                 width={120}
