@@ -41,7 +41,7 @@ const Introduction = () => {
           <div className="order-1 md:order-2 -z-10">
             <img
               className="m-auto md:ml-auto md:mr-0 brightness-0 invert"
-              src="/images/introImage.png"
+              src="/assets/images/introImage.png"
               alt="image"
               width={500}
             />
