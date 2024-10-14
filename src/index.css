@@ -9,6 +9,7 @@
 
 * {
   font-family: "Poppins", "arial";
+  scroll-behavior: smooth;
 }
 
 /* / width /  */
