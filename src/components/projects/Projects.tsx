@@ -10,14 +10,14 @@ const Projects = () => {
           </a>
           Projects
         </h1>
-        <div className="h-80 flex justify-center flex-wrap items-center gap-5 border-4 border-dotted">
+        <div className="h-80 flex justify-center py-4 flex-wrap items-center gap-5 border-4 border-dotted">
           <a
             href="https://moviebase-psi.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-blue-300 p-5 rounded-lg shadow-inner transition-all relative hover:shadow-xl hover:shadow-blue-50">
             <LinkIcon className="size-8 absolute text-blue-400 -right-2 -top-2" />
-            <h1 className="text-5xl text-blue-400">Moviebase</h1>
+            <h1 className="text-4xl sm:text-5xl text-blue-400">Moviebase</h1>
           </a>
           <a
             href="https://tictactoe-livid-ten.vercel.app/"
@@ -25,7 +25,7 @@ const Projects = () => {
             rel="noopener noreferrer"
             className="border border-blue-300 p-5 rounded-lg shadow-inner transition-all relative hover:shadow-xl hover:shadow-blue-50">
             <LinkIcon className="size-8 absolute text-blue-400 -right-2 -top-2" />
-            <h1 className="text-5xl text-blue-400">TicTacToe</h1>
+            <h1 className="text-4xl sm:text-5xl text-blue-400">TicTacToe</h1>
           </a>
           <a
             href="https://calculator-delta-ten-49.vercel.app/"
@@ -33,7 +33,7 @@ const Projects = () => {
             rel="noopener noreferrer"
             className="border border-blue-300 p-5 rounded-lg shadow-inner transition-all relative hover:shadow-xl hover:shadow-blue-50">
             <LinkIcon className="size-8 absolute text-blue-400 -right-2 -top-2" />
-            <h1 className="text-5xl text-blue-400">Calculator</h1>
+            <h1 className="text-4xl sm:text-5xl text-blue-400">Calculator</h1>
           </a>
         </div>
       </div>

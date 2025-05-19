@@ -25,10 +25,10 @@ const Work = () => {
                 </h3>
                 <div className="mb-5 sm:mb-7">
                   <h4 className="font-bold text-lg text-slate-500">
-                    MultiStoreSync - <br /> Multi-Store Management Service.
+                    Project - <br /> Multi-Store Management Service.
                   </h4>
                   <p className="md:text-base">
-                    Created and launched MultiStoreSync, a comprehensive
+                    Created and launched this application, a comprehensive
                     platform designed to streamline inventory, product
                     information, and order management across multiple stores.
                     The platform ensures real-time synchronization and
@@ -40,13 +40,13 @@ const Work = () => {
                 </div>
                 <div className="mb-5 sm:mb-7">
                   <h4 className="font-bold text-lg text-slate-500">
-                    ImageBoost360 - <br />
+                    Project - <br />
                     Image Management, manipulation and delivery.
                   </h4>
                   <p className="md:text-base">
                     An intuitive platform for media transformation, management,
                     and delivery. Leveraging a worldwide CDN optimized for
-                    media, ImageBoost360 allows users to securely manage and
+                    media, This app allows users to securely manage and
                     organize their media, collaborate with team members, and
                     showcase rich media content such as 360 spins, deep image
                     zoom, and videos.
@@ -67,10 +67,10 @@ const Work = () => {
 
                 <div className="mb-5 sm:mb-7">
                   <h4 className="font-bold text-lg text-slate-500">
-                    IPO Dekho - <br /> Information about IPOs in India.
+                    Project - <br /> Information about IPOs in India.
                   </h4>
                   <p className="md:text-base">
-                    IPO Dekho gives all IPO news, details, information, alerts,
+                    The app gives all IPO news, details, information, alerts,
                     and Live subscriptions which may be helpful to people who
                     are interested to invest in the market and initial public
                     offering (IPO), but are not able to invest due to lack of
